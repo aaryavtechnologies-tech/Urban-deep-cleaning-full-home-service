@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Node
+node_modules/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
